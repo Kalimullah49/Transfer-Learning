@@ -38,10 +38,8 @@ Welcome to the **Transfer Learning Repository** by **Hafiz Kalimullah**! This re
 ## 🌍 **Getting Started**
 1. Clone the repository: `git clone https://github.com/hafizkalimullah/https://github.com/Kalimullah49/Transfer-Learning`
 2. Navigate to the directory: `cd your-repo`
-3. Install dependencies: `pip install -r requirements.txt`
-4. Start exploring the notebooks in Jupyter: `jupyter notebook`
+3. Start exploring the notebooks in Jupyter: `jupyter notebook`
 
 ---
 
 ✨ **Unleash the power of transfer learning and elevate your deep learning projects!** 🌟
-# Transfer-Learning
